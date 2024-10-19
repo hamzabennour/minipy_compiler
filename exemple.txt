@@ -1,0 +1,38 @@
+int Cpt = 56
+if (6.66<5):
+    Var3 = 0.63
+    if (5*5+(5+(31*6+(-9)/2)*0.36)*(-6655)==0) :
+        Var3 = (-0.64)
+        if(65<6):
+            int Cpt1 = 5.4
+            if(68<=5):
+                 int Cpt2 = 5.6
+                int Cpt3 = 5*5+(5+(31*6+(-9)/2)*0.36)*(-5.5)
+                Var = 5*5+(5+(31*6+(-9)/2)*0.36)*(-5.5)
+            int Cpt4 = 6.6
+        else:
+            while(99 != 0):
+                int Cpt5 = 15
+                for Cpt2 in Tab[100]:
+                    int Varr[5], Vari
+                    int Var[1000], Varia2
+                    while(100 !=0):
+                        int Va[5], Varb2
+                        int Var65[1000], Varl2
+            while(99 != 6):
+                int Cpt6 = 15/0
+                for Cpt7 in range(15,100):
+                    int Vir[5], Var2
+                    int Var3[1000], Var4
+                    while(100 == 0):
+                        int Var5[5], Var6
+                        int Var7[1000], Var8
+                int Var9[1000], Var10
+int Cpt12 = 5
+int Cpt13 = 6 
+int Var14[1000], Var15
+Var16 = (+5)
+Var17 = (-5)
+Var18 = (+5.5)
+Var19 = 'Z'
+Var20[5] = 'B'

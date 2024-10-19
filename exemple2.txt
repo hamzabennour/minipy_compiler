@@ -1,0 +1,11 @@
+int Cpt = 56
+if(not (5*5+(5+(31*6+(-9)/2)*0.36)*(-5.5)== 6.66*(-5)) and not (3<3) or false):
+    Var3 = 0.63
+int Cpt1 = 5
+int Cpt2 = 6 
+int Var[1000], Var2
+Var3 = (-0.64)
+Val[5] = 'c'
+char Val2 = 'A'
+
+
